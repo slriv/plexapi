@@ -1,5 +1,8 @@
 # perl-plexapi
 
+> [!CAUTION]
+> **Work in progress.** Lots of churn, lots of untested code.
+
 Perl 5.42+ interface to the [Plex Media Server HTTP API](https://github.com/Arcanemagus/plex-api/wiki), built as a CPAN-style distribution using native `class`/`field`/`method` OO.
 
 ## Modules
